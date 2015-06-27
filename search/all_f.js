@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['send',['send',['../classFreeAX25_1_1Runtime_1_1Channel.html#aa9ac7cf0bda2452560954a282258a51e',1,'FreeAX25::Runtime::Channel::send()'],['../classFreeAX25_1_1Runtime_1_1ChannelProxy.html#a94b3890fff6e2397ad715817d068d9e1',1,'FreeAX25::Runtime::ChannelProxy::send()']]],
+  ['serverendpoint',['ServerEndPoint',['../classFreeAX25_1_1Runtime_1_1ServerEndPoint.html',1,'FreeAX25::Runtime']]],
+  ['serverendpoint',['ServerEndPoint',['../classFreeAX25_1_1Runtime_1_1ServerEndPoint.html#adc6e0b157b607786cb9dc6d2416183a1',1,'FreeAX25::Runtime::ServerEndPoint::ServerEndPoint()'],['../classFreeAX25_1_1Runtime_1_1ServerEndPoint.html#ae30d2b4f9402a087b92489bbecfe4364',1,'FreeAX25::Runtime::ServerEndPoint::ServerEndPoint(const std::string &amp;name, const std::string &amp;url)'],['../classFreeAX25_1_1Runtime_1_1ServerEndPoint.html#a9fb0d775d4cdffe92553789debc14d24',1,'FreeAX25::Runtime::ServerEndPoint::ServerEndPoint(const ServerEndPoint &amp;other)'],['../classFreeAX25_1_1Runtime_1_1ServerEndPoint.html#ad63673b9d2d754ca5c04e200420b247e',1,'FreeAX25::Runtime::ServerEndPoint::ServerEndPoint(ServerEndPoint &amp;&amp;other)']]],
+  ['serverendpoint_2eh',['ServerEndPoint.h',['../ServerEndPoint_8h.html',1,'']]],
+  ['serverendpoints',['serverEndPoints',['../classFreeAX25_1_1Runtime_1_1Instance.html#ab0bd776f06021d739292ca00922ed61c',1,'FreeAX25::Runtime::Instance']]],
+  ['serverproxies',['serverProxies',['../classFreeAX25_1_1Runtime_1_1Environment.html#a048372a8aa0b7c506a01257646ac2fec',1,'FreeAX25::Runtime::Environment']]],
+  ['sessionbase',['SessionBase',['../classFreeAX25_1_1Runtime_1_1SessionBase.html',1,'FreeAX25::Runtime']]],
+  ['sessionbase',['SessionBase',['../classFreeAX25_1_1Runtime_1_1SessionBase.html#a2ee177902f7e5d62c77bb6e19b7d4a5f',1,'FreeAX25::Runtime::SessionBase::SessionBase(const SessionBase &amp;other)=delete'],['../classFreeAX25_1_1Runtime_1_1SessionBase.html#ac9be777c54733262c9872a662b1b5824',1,'FreeAX25::Runtime::SessionBase::SessionBase(SessionBase &amp;&amp;other)=delete'],['../classFreeAX25_1_1Runtime_1_1SessionBase.html#a60b3e083c9a02469940bd65e8f090db6',1,'FreeAX25::Runtime::SessionBase::SessionBase(const std::string &amp;id=FreeAX25::Runtime::newUUID())']]],
+  ['sessionbase_2eh',['SessionBase.h',['../SessionBase_8h.html',1,'']]],
+  ['setid',['setId',['../classFreeAX25_1_1Runtime_1_1Configuration.html#a7ead1a6f046362bb258bc8a2fb921e08',1,'FreeAX25::Runtime::Configuration']]],
+  ['setlevel',['setLevel',['../classFreeAX25_1_1Runtime_1_1Logger.html#ad6f1f72e48d30bc9c4e100b8d6725cac',1,'FreeAX25::Runtime::Logger']]],
+  ['setremote',['setRemote',['../classFreeAX25_1_1Runtime_1_1SessionBase.html#ab84175893c66b240f2bb629305f2239a',1,'FreeAX25::Runtime::SessionBase']]],
+  ['setting',['Setting',['../classFreeAX25_1_1Runtime_1_1Setting.html#adef483ccdca101792a9765769dc9a4f7',1,'FreeAX25::Runtime::Setting::Setting()'],['../classFreeAX25_1_1Runtime_1_1Setting.html#aae295b10fd1ed63663a78455247c6ad2',1,'FreeAX25::Runtime::Setting::Setting(const std::string &amp;name, const std::string &amp;value)'],['../classFreeAX25_1_1Runtime_1_1Setting.html#a2396d3c9f4df1fb12300e190bfba01aa',1,'FreeAX25::Runtime::Setting::Setting(const Setting &amp;other)'],['../classFreeAX25_1_1Runtime_1_1Setting.html#aabd602904198c38c9196fb15323f1820',1,'FreeAX25::Runtime::Setting::Setting(Setting &amp;&amp;other)']]],
+  ['setting',['Setting',['../classFreeAX25_1_1Runtime_1_1Setting.html',1,'FreeAX25::Runtime']]],
+  ['setting_2eh',['Setting.h',['../Setting_8h.html',1,'']]],
+  ['settings',['settings',['../classFreeAX25_1_1Runtime_1_1Configuration.html#a97ed61b94598613c1bbcf493b538f892',1,'FreeAX25::Runtime::Configuration::settings()'],['../classFreeAX25_1_1Runtime_1_1Instance.html#a4c84165e3e6cede35ebcf1abeb201744',1,'FreeAX25::Runtime::Instance::settings()'],['../classFreeAX25_1_1Runtime_1_1Plugin.html#abe13d1d9efedc4c609680da4c003e543',1,'FreeAX25::Runtime::Plugin::settings()']]],
+  ['sharedpointerdict',['SharedPointerDict',['../namespaceFreeAX25_1_1Runtime.html#a8027833f5c624f486b7beda3543eeb4f',1,'FreeAX25::Runtime']]],
+  ['sharedpointerdict_2eh',['SharedPointerDict.h',['../SharedPointerDict_8h.html',1,'']]],
+  ['sharedpointerdictbase',['SharedPointerDictBase',['../namespaceFreeAX25_1_1Runtime.html#a8f6c298f8e90f35c2c6d53f1ce374e77',1,'FreeAX25::Runtime']]],
+  ['sharedpointerdictconstiterator',['SharedPointerDictConstIterator',['../namespaceFreeAX25_1_1Runtime.html#ac610da00ace637ae64aa98a62a780951',1,'FreeAX25::Runtime']]],
+  ['sharedpointerdictiterator',['SharedPointerDictIterator',['../namespaceFreeAX25_1_1Runtime.html#a67110e8877ad9202215a605f0883dd0a',1,'FreeAX25::Runtime']]],
+  ['sharedpointerdictpair',['SharedPointerDictPair',['../namespaceFreeAX25_1_1Runtime.html#a86bb6daeb779a05f86c5309dc14b358e',1,'FreeAX25::Runtime']]],
+  ['start',['start',['../classFreeAX25_1_1Runtime_1_1Plugin.html#ae405fa674627729b17495f1505b5e849',1,'FreeAX25::Runtime::Plugin::start()'],['../classFreeAX25_1_1Runtime_1_1Timer.html#a620cb9727785b1d9a2e73f038080935e',1,'FreeAX25::Runtime::Timer::start(const std::chrono::steady_clock::duration &amp;d)'],['../classFreeAX25_1_1Runtime_1_1Timer.html#aa7aba15ed89bb77921134673bafb6ac2',1,'FreeAX25::Runtime::Timer::start()'],['../classFreeAX25_1_1Runtime_1_1TimerManager.html#aa24b0133214adba26dc7e8e309b0698d',1,'FreeAX25::Runtime::TimerManager::start()']]],
+  ['starttimermanager',['startTimerManager',['../namespaceFreeAX25_1_1Runtime.html#abab8f414dd3ec53d957b30c03c68fc5c',1,'FreeAX25::Runtime']]],
+  ['stop',['stop',['../classFreeAX25_1_1Runtime_1_1Timer.html#aa69c58084da1f3c34c27a935d8fb4711',1,'FreeAX25::Runtime::Timer']]]
+];

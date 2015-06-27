@@ -1,0 +1,5 @@
+<map id="FreeAX25::Runtime::Environment" name="FreeAX25::Runtime::Environment">
+<area shape="rect" id="node2" href="$classFreeAX25_1_1Runtime_1_1Configuration.html" title="{FreeAX25::Runtime::\lConfiguration\n|+ plugins\l+ settings\l|+ Configuration()\l+ Configuration()\l+ Configuration()\l+ operator=()\l+ operator=()\l+ ~Configuration()\l+ getId()\l+ setId()\l+ print()\l}" alt="" coords="5,42,151,266"/>
+<area shape="rect" id="node3" href="$classFreeAX25_1_1Runtime_1_1Logger.html" title="{FreeAX25::Runtime::\lLogger\n||+ Logger()\l+ Logger()\l+ Logger()\l+ operator=()\l+ operator=()\l+ ~Logger()\l+ init()\l+ setLevel()\l+ getLevel()\l+ logError()\l+ logWarning()\l+ logInfo()\l+ logDebug()\l+ log()\l+ decode()\l}" alt="" coords="175,5,320,303"/>
+<area shape="rect" id="node4" href="$classFreeAX25_1_1Runtime_1_1TimerManager.html" title="{FreeAX25::Runtime::\lTimerManager\n||+ TimerManager()\l+ TimerManager()\l+ TimerManager()\l+ ~TimerManager()\l+ operator=()\l+ operator=()\l+ init()\l+ start()\l+ terminate()\l+ join()\l+ _run()\l}" alt="" coords="344,35,489,273"/>
+</map>
